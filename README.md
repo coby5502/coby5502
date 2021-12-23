@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![trophy](https://github-profile-trophy.vercel.app/?username=coby5502)
+
+![coby5502's github stats](https://github-readme-stats.vercel.app/api?username=coby5502&show_icons=true)
+[![coby5502's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coby5502&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/coby5502)
+
 <!--
 **coby5502/coby5502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
