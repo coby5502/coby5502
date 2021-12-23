@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=coby5502)
 
