@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Coby.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <div align="center">
@@ -36,3 +38,5 @@
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
