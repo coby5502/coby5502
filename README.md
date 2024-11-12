@@ -3,12 +3,8 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Coby.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <div align="center">
-    <a href="https://github.com/coby5502/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coby5502&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-    </a>    
-    <a href="https://github.com/coby5502/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=coby5502&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coby5502&layout=donut&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />   
+    <img src="https://github-readme-stats.vercel.app/api?username=coby5502&show_icons=true&count_private=true" width=56% />
 </div>
 
 
