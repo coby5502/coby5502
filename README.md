@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Coby.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Mobile%20Engineer&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coby5502&layout=donut&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />   
@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
 </div>
 
 <br>
