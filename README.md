@@ -7,6 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=coby5502&show_icons=true&count_private=true" width=56% />
 </div>
 
+![top solved](https://topsolved.mayonedev.com/api/boj?handle=coby5502&row=25&base_color=default)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
